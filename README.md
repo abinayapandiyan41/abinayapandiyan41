@@ -4,13 +4,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abinayapandiyan</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Backend Developer</h3>
 
 ---
 
 <!-- About Section -->
 ### 👨‍💻 About Me  
-- 🌱 I’m currently exploring **Frontend Frameworks** and **Full-Stack Development**  
+- 🌱 I’m currently exploring **Web Development** and **Full-Stack Development**  
 - 💼 Skills: **HTML, CSS, JavaScript, MERN Stack, Python, C, Java**  
 - 🎯 Passionate about building **interactive user experiences** and **responsive web applications**  
 - ⚡ Fun Fact: I enjoy solving challenging coding problems and exploring new technologies.
